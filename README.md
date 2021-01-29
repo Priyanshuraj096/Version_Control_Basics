@@ -19,3 +19,11 @@ PULL ->  ADD -> COMMIT -> PUSH -> REVIEW(BY ADMIN) -> MERGE
 - Regression testing ensures any new feature or code base change does not adversely affect the pre-exisiting features.
 - It's full or partial selection of already executed test cases which are re-executed to ensure existing functionalities work fine.
 
+# GITHUB Nomenclature
+
+- Github follows Tree Type Structure
+1. CodeBase -> Repository (Code Repo in Short)
+2. Server -> Place where repo is hosted
+3. Client -> Pulling Master
+4. Feature Branch -> Pull the code from master
+
